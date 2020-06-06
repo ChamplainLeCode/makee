@@ -1,0 +1,25 @@
+{
+  "name": "makee",
+  "version": "1.0.0",
+  "description": "This is a very simple way to use microservice architecture with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamplainLeCode/makee.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Microservice",
+    "Bixterprise",
+    "Makee"
+  ],
+  "author": "ChamplainLeCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChamplainLeCode/makee/issues"
+  },
+  "homepage": "https://github.com/ChamplainLeCode/makee#readme"
+}
